@@ -18,7 +18,7 @@ def print_banner(legend: bool = False):
 | '_ \| '__/ _ \ \ /\ / / |/ _ \ '__|
 | |_) | | | (_) \ V  V /| |  __/ |
 | .__/|_|  \___/ \_/\_/ |_|\___|_|v{prowler_version}
-|_|{Fore.BLUE} Get the most at https://cloud.prowler.com {Style.RESET_ALL}
+|_|{Fore.BLUE} Get the most at https://unicrons.cloud {Style.RESET_ALL}
 
 {Fore.GREEN}New! Send findings from Prowler CLI to Prowler Cloud{Style.RESET_ALL}
 {Fore.GREEN}More details here: goto.prowler.com/import-findings{Style.RESET_ALL}
